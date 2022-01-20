@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/fer/Garmin/Telemeter/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="1" lineNum="20" parent="globals/TimerView" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="1" lineNum="21" parent="globals/TimerView" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="25" parent="globals/TimerView" pc="268435483" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="26" parent="globals/TimerView" pc="268435487" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="29" parent="globals/TimerView" pc="268435506" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="30" parent="globals/TimerView" pc="268435528" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="31" parent="globals/TimerView" pc="268435550" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="32" parent="globals/TimerView" pc="268435566" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="33" parent="globals/TimerView" pc="268435594" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="36" parent="globals/TimerView" pc="268435622" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="2" lineNum="37" parent="globals/TimerView" pc="268435648" symbol="callback1"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="3" lineNum="40" parent="globals/TimerView" pc="268435675" symbol="reset"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="3" lineNum="41" parent="globals/TimerView" pc="268435679" symbol="reset"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="4" lineNum="46" parent="globals/TimerView" pc="268435693" symbol="onLayout"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="54" parent="globals/TimerView" pc="268435698" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="55" parent="globals/TimerView" pc="268435702" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="56" parent="globals/TimerView" pc="268435738" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="58" parent="globals/TimerView" pc="268435750" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="59" parent="globals/TimerView" pc="268435786" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="60" parent="globals/TimerView" pc="268435793" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="62" parent="globals/TimerView" pc="268435812" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="64" parent="globals/TimerView" pc="268435875" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="65" parent="globals/TimerView" pc="268435903" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="67" parent="globals/TimerView" pc="268435966" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="68" parent="globals/TimerView" pc="268435973" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="70" parent="globals/TimerView" pc="268436036" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="5" lineNum="72" parent="globals/TimerView" pc="268436058" symbol="onUpdate"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="76" parent="globals/TimerView" pc="268436122" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="77" parent="globals/TimerView" pc="268436126" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="78" parent="globals/TimerView" pc="268436154" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="79" parent="globals/TimerView" pc="268436189" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="80" parent="globals/TimerView" pc="268436199" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="82" parent="globals/TimerView" pc="268436212" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="83" parent="globals/TimerView" pc="268436252" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="6" lineNum="85" parent="globals/TimerView" pc="268436330" symbol="startTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="7" lineNum="89" parent="globals/TimerView" pc="268436341" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="7" lineNum="90" parent="globals/TimerView" pc="268436345" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="7" lineNum="91" parent="globals/TimerView" pc="268436355" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="7" lineNum="92" parent="globals/TimerView" pc="268436366" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="7" lineNum="93" parent="globals/TimerView" pc="268436378" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="7" lineNum="95" parent="globals/TimerView" pc="268436391" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="8" lineNum="10" parent="globals/TimerView" pc="268437188" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="8" lineNum="10" parent="globals/TimerView" pc="268437188" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="9" lineNum="106" parent="globals/ProgressDelegate" pc="268436404" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="9" lineNum="107" parent="globals/ProgressDelegate" pc="268436408" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="9" lineNum="108" parent="globals/ProgressDelegate" pc="268436426" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="10" lineNum="113" parent="globals/ProgressDelegate" pc="268436437" symbol="onBack"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="10" lineNum="114" parent="globals/ProgressDelegate" pc="268436441" symbol="onBack"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="10" lineNum="115" parent="globals/ProgressDelegate" pc="268436459" symbol="onBack"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="11" lineNum="101" parent="globals/ProgressDelegate" pc="268437237" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="11" lineNum="101" parent="globals/ProgressDelegate" pc="268437237" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="12" lineNum="127" parent="globals/InputDelegate" pc="268436463" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="12" lineNum="128" parent="globals/InputDelegate" pc="268436467" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="133" parent="globals/InputDelegate" pc="268436486" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="134" parent="globals/InputDelegate" pc="268436490" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="135" parent="globals/InputDelegate" pc="268436503" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="137" parent="globals/InputDelegate" pc="268436540" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="139" parent="globals/InputDelegate" pc="268436553" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="140" parent="globals/InputDelegate" pc="268436593" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="142" parent="globals/InputDelegate" pc="268436671" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="13" lineNum="143" parent="globals/InputDelegate" pc="268436712" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="14" lineNum="147" parent="globals/InputDelegate" pc="268436716" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="14" lineNum="148" parent="globals/InputDelegate" pc="268436720" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="14" lineNum="149" parent="globals/InputDelegate" pc="268436730" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="14" lineNum="150" parent="globals/InputDelegate" pc="268436737" symbol="stopTimer"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="155" parent="globals/InputDelegate" pc="268436753" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="156" parent="globals/InputDelegate" pc="268436757" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="158" parent="globals/InputDelegate" pc="268436776" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="159" parent="globals/InputDelegate" pc="268436786" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="160" parent="globals/InputDelegate" pc="268436793" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="161" parent="globals/InputDelegate" pc="268436810" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="162" parent="globals/InputDelegate" pc="268436820" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="163" parent="globals/InputDelegate" pc="268436827" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="165" parent="globals/InputDelegate" pc="268436842" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="166" parent="globals/InputDelegate" pc="268436873" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="167" parent="globals/InputDelegate" pc="268436890" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="168" parent="globals/InputDelegate" pc="268436910" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="15" lineNum="169" parent="globals/InputDelegate" pc="268436927" symbol="timerCallback"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="16" lineNum="120" parent="globals/InputDelegate" pc="268437275" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerView.mc" id="16" lineNum="120" parent="globals/InputDelegate" pc="268437275" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="18" lineNum="17" parent="globals/TimerApp" pc="268436975" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="18" lineNum="18" parent="globals/TimerApp" pc="268436979" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="19" lineNum="23" parent="globals/TimerApp" pc="268436998" symbol="onStart"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="20" lineNum="28" parent="globals/TimerApp" pc="268437003" symbol="onStop"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="21" lineNum="33" parent="globals/TimerApp" pc="268437008" symbol="getInitialView"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="21" lineNum="34" parent="globals/TimerApp" pc="268437012" symbol="getInitialView"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="21" lineNum="35" parent="globals/TimerApp" pc="268437040" symbol="getInitialView"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="21" lineNum="36" parent="globals/TimerApp" pc="268437070" symbol="getInitialView"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="22" lineNum="14" parent="globals/TimerApp" pc="268437294" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerApp.mc" id="22" lineNum="14" parent="globals/TimerApp" pc="268437294" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="24" lineNum="16" parent="globals/TimerDelegate" pc="268437098" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="24" lineNum="17" parent="globals/TimerDelegate" pc="268437102" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="24" lineNum="18" parent="globals/TimerDelegate" pc="268437124" symbol="initialize"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="25" lineNum="23" parent="globals/TimerDelegate" pc="268437135" symbol="onMenu"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="25" lineNum="24" parent="globals/TimerDelegate" pc="268437139" symbol="onMenu"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="25" lineNum="25" parent="globals/TimerDelegate" pc="268437157" symbol="onMenu"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="26" lineNum="28" parent="globals/TimerDelegate" pc="268437161" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="26" lineNum="29" parent="globals/TimerDelegate" pc="268437165" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="26" lineNum="30" parent="globals/TimerDelegate" pc="268437183" symbol="onSelect"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="27" lineNum="11" parent="globals/TimerDelegate" pc="268437256" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/fer/Garmin/Telemeter/source/TimerDelegate.mc" id="27" lineNum="11" parent="globals/TimerDelegate" pc="268437256" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="2" parent="globals/Rez/Drawables" pc="268437231" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="6" parent="globals/Rez/Fonts" pc="268437233" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="8" parent="globals/Rez/JsonData" pc="268437235" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="10" parent="globals/Rez/Layouts" pc="268437234" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="12" parent="globals/Rez/Menus" pc="268437232" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="14" parent="globals/Rez/Strings" pc="268437236" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="1" parent="globals/Rez" pc="268437207" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="1" parent="globals/Rez" pc="268437207" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="12" object="true" symbol="TimerDelegate"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="9" object="true" symbol="TimerView"/>
+        <entry field="true" id="27" symbol="&lt;globals/ProgressDelegate/&lt;&gt;_callback&gt;"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="8388700" method="true" symbol="callback1"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="10" object="true" symbol="ProgressDelegate"/>
+        <entry field="true" id="28" symbol="&lt;globals/TimerDelegate/&lt;&gt;_view&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="11" object="true" symbol="TimerApp"/>
+        <entry id="20" method="true" symbol="reset"/>
+        <entry field="true" id="26" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="18" symbol="&lt;globals/TimerView/&lt;&gt;_progress&gt;"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="15" symbol="&lt;globals/TimerView/&lt;&gt;_distance&gt;"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="14" symbol="&lt;globals/TimerView/&lt;&gt;_count1&gt;"/>
+        <entry field="true" id="31" symbol="&lt;globals/InputDelegate/&lt;&gt;_count&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="19" symbol="&lt;globals/TimerView/&lt;&gt;_label&gt;"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="24" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="29" symbol="&lt;globals/InputDelegate/&lt;&gt;_progressBar&gt;"/>
+        <entry field="true" id="13" symbol="&lt;globals/TimerView/&lt;&gt;_timer1&gt;"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="32" method="true" symbol="timerCallback"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="21" method="true" symbol="startTimer"/>
+        <entry id="22" method="true" symbol="stopTimer"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="17" symbol="&lt;globals/TimerView/&lt;&gt;_progressBar&gt;"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry id="8388656" object="true" symbol="InputDelegate"/>
+        <entry field="true" id="30" symbol="&lt;globals/InputDelegate/&lt;&gt;_timer&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="16" symbol="&lt;globals/TimerView/&lt;&gt;_running&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435673" name="string" stackId="1" startPc="268435487"/>
+        <entry endPc="268435673" name="timex" stackId="2" startPc="268435487"/>
+        <entry arg="true" endPc="268435697" name="dc" stackId="1" startPc="268435693"/>
+        <entry endPc="268436120" name="string" stackId="2" startPc="268435702"/>
+        <entry endPc="268436120" name="y" stackId="3" startPc="268435702"/>
+        <entry arg="true" endPc="268436121" name="dc" stackId="1" startPc="268435698"/>
+        <entry endPc="268436339" name="timer1" stackId="1" startPc="268436126"/>
+        <entry endPc="268436402" name="timer" stackId="1" startPc="268436345"/>
+        <entry arg="true" endPc="268436436" name="callback" stackId="1" startPc="268436404"/>
+        <entry endPc="268436751" name="timer" stackId="1" startPc="268436720"/>
+        <entry endPc="268436869" name="timer" stackId="2" startPc="268436810"/>
+        <entry endPc="268436973" name="progressBar" stackId="1" startPc="268436757"/>
+        <entry arg="true" endPc="268437002" name="state" stackId="1" startPc="268436998"/>
+        <entry arg="true" endPc="268437007" name="state" stackId="1" startPc="268437003"/>
+        <entry endPc="268437096" name="view" stackId="1" startPc="268437012"/>
+        <entry endPc="268437096" name="delegate" stackId="2" startPc="268437012"/>
+        <entry arg="true" endPc="268437134" name="view" stackId="1" startPc="268437098"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/TimerView" offset="174" parentId="globals" symbolId="TimerView" type="class"/>
+        <dataEntry label="globals/Rez" offset="325" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="404" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="443" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="474" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="505" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="536" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="567" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/ProgressDelegate" offset="606" parentId="globals" symbolId="ProgressDelegate" type="class"/>
+        <dataEntry label="globals/TimerDelegate" offset="669" parentId="globals" symbolId="TimerDelegate" type="class"/>
+        <dataEntry label="globals/InputDelegate" offset="740" parentId="globals" symbolId="InputDelegate" type="class"/>
+        <dataEntry label="globals/TimerApp" offset="835" parentId="globals" symbolId="TimerApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435482" name="initialize" parent="TimerView" startPc="268435456">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435674" name="callback1" parent="TimerView" startPc="268435483">
+            <documentation><![CDATA[<div class="description"> Callback for timer 1<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435692" name="reset" parent="TimerView" startPc="268435675">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435697" name="onLayout" parent="TimerView" startPc="268435693">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436121" name="onUpdate" parent="TimerView" startPc="268435698">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436340" name="startTimer" parent="TimerView" startPc="268436122">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436403" name="stopTimer" parent="TimerView" startPc="268436341">
+            <documentation><![CDATA[<div class="description"> Stop the first timer<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437206" name="&lt;init&gt;" parent="TimerView" startPc="268437188">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436436" name="initialize" parent="ProgressDelegate" startPc="268436404">
+            <param id="callback"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> callback Callback function</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436462" name="onBack" parent="ProgressDelegate" startPc="268436437">
+            <documentation><![CDATA[<div class="description"> Handle back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437255" name="&lt;init&gt;" parent="ProgressDelegate" startPc="268437237">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436485" name="initialize" parent="InputDelegate" startPc="268436463">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436715" name="onSelect" parent="InputDelegate" startPc="268436486">
+            <documentation><![CDATA[<div class="description"> On a select event, create a progress bar<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436752" name="stopTimer" parent="InputDelegate" startPc="268436716">
+            <documentation><![CDATA[<div class="description"> Stop the timer<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436974" name="timerCallback" parent="InputDelegate" startPc="268436753">
+            <documentation><![CDATA[<div class="description"> Update the progress bar every second<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437293" name="&lt;init&gt;" parent="InputDelegate" startPc="268437275">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436997" name="initialize" parent="TimerApp" startPc="268436975">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437002" name="onStart" parent="TimerApp" startPc="268436998">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437007" name="onStop" parent="TimerApp" startPc="268437003">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437097" name="getInitialView" parent="TimerApp" startPc="268437008">
+            <documentation><![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array Pair [View, Delegate]</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437312" name="&lt;init&gt;" parent="TimerApp" startPc="268437294">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437134" name="initialize" parent="TimerDelegate" startPc="268437098">
+            <param id="view"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437160" name="onMenu" parent="TimerDelegate" startPc="268437135">
+            <documentation><![CDATA[<div class="description"> Stop the first timer on menu event<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437186" name="onSelect" parent="TimerDelegate" startPc="268437161">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437274" name="&lt;init&gt;" parent="TimerDelegate" startPc="268437256">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437231" name="&lt;init&gt;" parent="Drawables" startPc="268437231">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437233" name="&lt;init&gt;" parent="Fonts" startPc="268437233">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437235" name="&lt;init&gt;" parent="JsonData" startPc="268437235">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437234" name="&lt;init&gt;" parent="Layouts" startPc="268437234">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437232" name="&lt;init&gt;" parent="Menus" startPc="268437232">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437236" name="&lt;init&gt;" parent="Strings" startPc="268437236">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437230" name="&lt;init&gt;" parent="Rez" startPc="268437207">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
