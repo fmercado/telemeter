@@ -54,7 +54,7 @@ class TimerView extends WatchUi.View {
         
         self.print_centered(dc, 1, "Time:");
         // Amount o seconds since start
-        message = "" + _count1 / update_second + " (s)";
+        message = "" + _count1 / updates_second + " (s)";
         self.print_centered(dc, 2, message);
 
         self.print_centered(dc, 3, "Distance:");
