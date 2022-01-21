@@ -5,6 +5,7 @@ import Toybox.Graphics;
 import Toybox.Lang;
 import Toybox.Timer;
 import Toybox.WatchUi;
+import Toybox.System;
 
 //! Show the three timer callback counts
 class TimerView extends WatchUi.View {
@@ -12,13 +13,26 @@ class TimerView extends WatchUi.View {
     private var _count1 as Number = 0;
     private var _distance as Number = 0;
     private var _running = false;
+    private var _distance_units;
+    private var _distance_unit_label;
 
     private var updates_second = 8;
     private var timer_interval = 1000/updates_second;
-    private var speed_sound_interval = 340/updates_second;
+    private var speed_sound_interval;
 
     //! Constructor
     public function initialize() {
+
+        _distance_units = System.getDeviceSettings().distanceUnits;
+
+        if (_distance_units == 0) {
+            _distance_unit_label = "m";
+            speed_sound_interval = 340/updates_second;
+        } else {
+            _distance_unit_label = "f";
+            speed_sound_interval = 1125/updates_second;
+        }
+
         WatchUi.View.initialize();
     }
 
@@ -27,6 +41,7 @@ class TimerView extends WatchUi.View {
         _count1++;
         // Calculate the actual distance so far
         _distance = _count1 * speed_sound_interval;
+
 
         WatchUi.requestUpdate();
     }
@@ -51,7 +66,12 @@ class TimerView extends WatchUi.View {
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
 
         var message;
-        
+
+        if (_count1 > 40 and _distance_units == 1) {
+            _distance_unit_label = "mi";
+            _distance = _distance / 5280.0; 
+        }
+
         self.print_centered(dc, 1, "Time:");
         // Amount o seconds since start
         message = "" + _count1 / updates_second + " (s)";
@@ -60,7 +80,7 @@ class TimerView extends WatchUi.View {
         self.print_centered(dc, 3, "Distance:");
         
         // Show the current distance
-        message = "" + _distance + " (m)";
+        message = "" + _distance + " " + _distance_unit_label;
         self.print_centered(dc, 4, message);
     }
     
