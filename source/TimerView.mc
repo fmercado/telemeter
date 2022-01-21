@@ -67,6 +67,7 @@ class TimerView extends WatchUi.View {
 
         var message;
 
+        // After a couple of seconds counting feet we switch to miles
         if (_count1 > 40 and _distance_units == 1) {
             _distance_unit_label = "mi";
             _distance = _distance / 5280.0; 
